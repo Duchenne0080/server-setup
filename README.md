@@ -6,3 +6,9 @@
 
 # Tips
 - "Chmod" before execution
+
+# Database url
+- your-ip/phpmyadmin
+
+# WordPress url
+- your-ip/wordpress
