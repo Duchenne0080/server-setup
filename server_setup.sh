@@ -3,7 +3,6 @@
 #E-mail: zxcvbnm_33961@qq.com
 
 echo "server set up......"
-sudo -s
 apt-get update
 apt-get upgrade
 
